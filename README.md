@@ -23,9 +23,10 @@ projects.
 <img align="left" alt="raspberryPi" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="arduino" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img align="left" alt="npm" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<br />
 
 #
 
 ### 📊Stats
 
-![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=soldier-mo&show_icons=true&theme=radical)
+![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=soldier-mo&show_icons=true&theme=nord)
